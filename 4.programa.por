@@ -1,6 +1,7 @@
 programa
 {
-
+	/*AUTOR: Jefferson Felipe*/
+	
 	/*4) Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório
 	entre eles.
 	Ex:
@@ -41,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1125; 
+ * @POSICAO-CURSOR = 37; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

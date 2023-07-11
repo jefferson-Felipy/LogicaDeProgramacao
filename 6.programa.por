@@ -1,6 +1,8 @@
 programa
 {
-	/*F6) Faça um programa que leia um número inteiro e mostre os seus antecessores
+	/*AUTOR: Jefferson Felipe*/
+	
+	/*F6) Faça um programa que leia um número inteiro e mostre os seus antecessores
 	e seus sucessores.
 	 Ex:
 	 Digite um número: 9
@@ -30,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 320; 
+ * @POSICAO-CURSOR = 37; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

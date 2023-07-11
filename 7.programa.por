@@ -1,6 +1,8 @@
 programa
 {
-	inclua biblioteca Util --> U
+	/*AUTOR: Jefferson Felipe*/
+	
+	inclua biblioteca Util --> U
 
 	/*Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a
 	 sua terça parte.
@@ -38,7 +40,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 408; 
+ * @POSICAO-CURSOR = 37; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

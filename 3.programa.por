@@ -1,5 +1,7 @@
 programa{
 
+	/*AUTOR: Jefferson Felipe*/
+	
 	/*Crie um programa que leia o nome e o salário de um funcionário, mostrando no
 	final uma mensagem.
 	Ex:
@@ -45,7 +47,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1206; 
+ * @POSICAO-CURSOR = 37; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
