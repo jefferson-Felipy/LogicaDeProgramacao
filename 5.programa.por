@@ -1,5 +1,7 @@
 programa
 {
+	/*AUTOR: Jefferson Felipe*/
+		
 	/*
 	 Faça um programa que leia as duas notas de um aluno em uma matéria e mostre
 	 na tela a sua média na disciplina.
@@ -61,7 +63,6 @@ programa
 				e o bloco ELSE é satisfeito;*/
 			}
 		  }
-		  	
 		}
 
 		/*por fim, logo após o usuario escolher a disciplina desejada, ele irá
@@ -69,7 +70,6 @@ programa
 		loop FOR()_*/
 		escreva("Digite as quatro notas da disciplina de "+disciplinaEsc+":\n")
 		para(inteiro i = 0; i < 4;i++){
-			
 			escreva("Nota "+(i+1)+": ")
 			leia(disc[i])
 			limpa()
@@ -96,7 +96,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 3055; 
+ * @POSICAO-CURSOR = 39; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
